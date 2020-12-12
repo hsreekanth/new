@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hrms.onboard.EmployeeResourceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.702 s - in com.hrms.onboard.EmployeeResourceApplicationTests
